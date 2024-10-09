@@ -12,3 +12,6 @@ def division(a, b):
 
 def modulo(a, b):
     return a % b
+
+def promedio(a, b):
+    return (a + b) / 2
